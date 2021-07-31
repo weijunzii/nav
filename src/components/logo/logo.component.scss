@@ -3,6 +3,7 @@
   vertical-align: middle;
   pointer-events: none;
   background-color: #eee;
+  border-radius: 50%;
 }
 
 .circle {
@@ -11,4 +12,7 @@
   justify-content: center;
   align-items: center;
   border-radius: 50%;
+  font-weight: bold;
+  text-transform: uppercase;
+  box-shadow: 0px 0px 2px 1px #c1c1c1;
 }

@@ -68,7 +68,7 @@
     <i nz-icon nzType="ellipsis" nz-dropdown [nzDropdownMenu]="menu" *ngIf="isLogin"></i>
 
     <nz-dropdown-menu #menu="nzDropdownMenu">
-      <ul nz-menu nzSelectable>
+      <ul nz-menu nzSelectable style="border-radius: 12px;">
         <li nz-menu-item (click)="toggleModal(); detail = dataSource">编辑</li>
         <a
           nz-popconfirm
