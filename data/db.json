@@ -1108,7 +1108,7 @@
                 "createdAt": "2021-01-23T01:32:06.423Z"
             },
             {
-                "title": "影视/音乐",
+                "title": "影视 / 音乐",
                 "nav": [
                     {
                         "title": "影视",
@@ -1214,10 +1214,10 @@
                 "createdAt": "2021-01-23T01:32:06.423Z"
             },
             {
-                "title": "招聘/求职",
+                "title": "招聘 / 求职",
                 "nav": [
                     {
-                        "title": "招聘/求职",
+                        "title": "招聘 / 求职",
                         "nav": [
                             {
                                 "icon": "https://www.zhaopin.com/favicon.ico",
@@ -1575,7 +1575,7 @@
         "createdAt": "2021-01-23T01:32:06.423Z"
     },
     {
-        "title": "WEB前端",
+        "title": "WEB 前端",
         "nav": [
             {
                 "title": "JavaScript",
@@ -6503,7 +6503,7 @@
                 "createdAt": "2021-01-23T01:32:06.423Z"
             },
             {
-                "title": "WEB框架",
+                "title": "WEB 框架",
                 "nav": [
                     {
                         "title": "nest",
