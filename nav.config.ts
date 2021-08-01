@@ -30,7 +30,7 @@ const c: IConfig = {
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
-    <div style="font-weight: bold;">共收录\${total}个网站</div>
+    <div style="font-weight: bold;">共收录 \${total} 个网站</div>
     <div style="padding: 5px 0px;">Copyright © 2018-2021 lbjheiheihei.xyz, All Rights Reserved</div>
   `,
 
