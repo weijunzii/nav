@@ -12,7 +12,6 @@
     class="circle"
     [ngStyle]="{ 'background-color': colour, 'width': size + 'px', 'height': size + 'px' }"
   >
-    
-	<span style="display: inline-block;margin-top: 20%;top: 50%;">{{ name ? name[0] : '' }}</span>
+    {{ name ? name[0] : '' }}
   </div>
 </ng-template>
